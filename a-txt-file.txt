@@ -1,6 +1,8 @@
-version 2.0.0
+version 2.1.0
 
 
 loads of changes and loads of text added
 
 the quick brown fox jumped over the lazy dogs
+
+a minor update
